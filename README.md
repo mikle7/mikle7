@@ -49,6 +49,8 @@ src="https://img.shields.io/twitter/follow/de_bug_dev?logo=twitter&style=for-the
 
 <a href="http://www.github.com/mikle7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mikle7&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<img src="https://myreadme.vercel.app/api/embed/mikle7?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 <a href="http://www.github.com/mikle7"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mikle7&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ### Support Me
