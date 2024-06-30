@@ -8,7 +8,6 @@ I've been developing for over 5 years, with experience in React as well as Game 
 
 * 🌍  I'm based in Perth, Western Australia
 * ✉️  You can contact me at [michael@thehybridminds.com](mailto:michael@thehybridminds.com)
-* 🚀  I'm currently working on [JournalThingy](http://journalthingy.app)
 * 🧠  I'm learning Next.js & tRPC
 * 🤝  I'm open to collaborating on Web/App Projects & Unity Games
 
